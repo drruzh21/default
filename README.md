@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm George
 
-👨🏻‍💻  About Me
+#### 👨🏻‍💻  About Me
 
 * 💡  I like to explore new technologies and develop software solutions.
 * 💂  I speak 2 languages - Russian and English
