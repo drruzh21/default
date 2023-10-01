@@ -14,5 +14,3 @@ My gists: (👉ﾟヮﾟ)👉 [Gists](https://gist.github.com/drruzh21)
 Contacts:
 
 > Telegram: @drruzh21
-
-> VK: https://vk.com/egordr04
